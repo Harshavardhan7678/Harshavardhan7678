@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on acquiring new skills
 - 🌱 I’m currently learning Web development
 - 🎯 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers on various platforms
 - 💬 Ask me about Technology and Astrophysics
 - 📫 How to reach me: business.greddy@gmail.com 
 
@@ -18,5 +19,4 @@
 	<a href="https://www.linkedin.com/in/harshavardhan-reddy-099962204/"><img alt="linkedin" width="7%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a>
 	<a href="https://www.instagram.com/harshavardhan._._reddy/"><img alt="instagram" width="7%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/>
 	<a href="https://twitter.com/ReddyGajarla/"><img alt="twitter" width="7%" style="padding:5px" src="https://img.icons8.com/nolan/512/twitter--v1.png"/></a>
-
-<h2 align='center'>Hasta la vista! </h2> 
+<h2 align='center'> Hasta la vista! </h2> 
