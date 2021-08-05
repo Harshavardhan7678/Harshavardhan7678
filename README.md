@@ -2,14 +2,16 @@
 
 <img align="right" height="400px" alt="GIF" src="https://camo.githubusercontent.com/9375f7c5936266ff4f0be613951ac536c4de2cb4a822ec8a461951062f4b6381/68747470733a2f2f7777772e6c696e6b706963747572652e636f6d2f712f53637265656e73686f745f323032312d30362d31395f61745f31302e30382e31335f414d2d72656d6f766562672d707265766965772e706e67" padding="5px" />
 
-## I'm a student and a Zealous Developer!
+<h2 align="center"> I'm a student and a Zealous Developer! </h2>
 
-- 🔭 I’m currently working on acquiring new skills. 
-- 🌱 I’m currently learning Web development. 
-- 💬 Ask me about Technology and Astrophysics.
+
+- 🔭 I’m currently working on acquiring new skills
+- 🌱 I’m currently learning Web development
+- 🎯 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Technology and Astrophysics
 - 📫 How to reach me: business.greddy@gmail.com 
 
-<h2 align='left'>Feel free to connect with me on:  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="35"> </h2> 
+<h2 align='left'>Feel free to connect with me on:  </h2> 
 
 <p align="left" >
 	<a href="https://github.com/Harshavardhan7678"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/github.png"/></a>
