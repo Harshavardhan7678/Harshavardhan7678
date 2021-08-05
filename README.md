@@ -19,4 +19,4 @@
 	<a href="https://www.instagram.com/harshavardhan._._reddy/"><img alt="instagram" width="7%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/>
 	<a href="https://twitter.com/ReddyGajarla/"><img alt="twitter" width="7%" style="padding:5px" src="https://img.icons8.com/nolan/512/twitter--v1.png"/></a>
 
-<h2 align='center'>Hasta la vista <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="35"> </h2> 
+<h2 align='center'>Hasta la vista! </h2> 
