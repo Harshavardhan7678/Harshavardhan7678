@@ -10,6 +10,7 @@ I'm a student and a Zealous Developer!
 - 💬 Ask me about Technology and Astrophysics.
 - 📫 How to reach me: business.greddy@gmail.com 
 
+<h2 align='left'>Feel free to connect with me on:  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" width="35"> </h2> 
 
 <p align="left" >
 	<a href="https://github.com/Harshavardhan7678"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/github.png"/></a>
