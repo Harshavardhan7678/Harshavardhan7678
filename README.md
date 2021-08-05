@@ -1,4 +1,4 @@
-<h1 align="center">  Holla!! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1622188894/41919/hey.gif?1622188894" width="35"> <br> Harshavardhan Here </h1>
+<h1 align="center">  Holla!! <img alt="wave" src="https://camo.githubusercontent.com/0092ad4434a6214e925eeddd36d7eb880ef2dae0be925304df2b743f30544a2c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383137373032302f383830392f776176655f68656c6c6f2e6769663f31353838313737303230" width="35"> <br> Harshavardhan Here </h1>
 
 ## I'm a student and a Zealous Developer!
 
