@@ -1,5 +1,5 @@
 <h1 align="center">  Holla!! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1622188894/41919/hey.gif?1622188894" width="35"> <br> Harshavardhan Here </h1>
-I'm a student and a Zealous Developer!
+## I'm a student and a Zealous Developer!
 
 ## Skills and Experience
 * ⚛ React
