@@ -15,4 +15,5 @@ I'm a student and a Zealous Developer!
 	<a href="https://github.com/Harshavardhan7678"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/github.png"/></a>
 	<a href="https://www.linkedin.com/in/harshavardhan-reddy-099962204/"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/linkedin.png"/></a>
 	<a href="https://www.instagram.com/harshavardhan._._reddy/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/instagram-new.png"/>
+	<a href="https://twitter.com/ReddyGajarla/"><img alt="twitter" width="8%" style="padding:5px" src="https://img.icons8.com/nolan/512/twitter--v1.png"/></a>
 
