@@ -5,7 +5,7 @@
 
 <h2 align="center"> I'm a student and a Zealous Developer! </h2>
 <div align="center">
-<img src="https : / /visitor-badge. laobi. icu/badge maurodesouza&"
+    <img src="https : / /visitor-badge. laobi. icu/badge maurodesouza&"
 </div>
 
 <p>
