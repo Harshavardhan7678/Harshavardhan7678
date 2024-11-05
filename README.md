@@ -1,16 +1,13 @@
-<h1 align="center">  Holla!! <img alt="wave" src="https://camo.githubusercontent.com/0092ad4434a6214e925eeddd36d7eb880ef2dae0be925304df2b743f30544a2c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383137373032302f383830392f776176655f68656c6c6f2e6769663f31353838313737303230" width="35"> <br> Harshavardhan Here </h1>
+<h1 align="center">  Holla!! <img alt="wave" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3NzY4NjEsIm5iZiI6MTczMDc3NjU2MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDAzMTYwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1N2EyYjUyZmJmZDhkODRiMjgzYWU4ZDg2MDE3YzA2NDUzYzY1NDc3YjE2OTQwOWM0MDgwZjJhYTJiMjk4MGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vUJInhlBvMSFcsF8AgX3GUBP21BiFni88EmmUV1ULDg" width="35"> <br> Harshavardhan Here </h1>
 
-<img align="right" height="400px" alt="GIF" src="https://camo.githubusercontent.com/9375f7c5936266ff4f0be613951ac536c4de2cb4a822ec8a461951062f4b6381/68747470733a2f2f7777772e6c696e6b706963747572652e636f6d2f712f53637265656e73686f745f323032312d30362d31395f61745f31302e30382e31335f414d2d72656d6f766562672d707265766965772e706e67" padding="5px" />
+<img align="right" height="400px" alt="GIF" src="https://giphy.com/gifs/animation-cute-smile-3o7TKMt1VVNkHV2PaE" padding="5px" />
 
 <h2 align="center"> I'm a student and a Zealous Developer! </h2>
 
+I am currently pursuing a Master's at the University of Washington, majoring in Computer Science and Robotics. I graduated from the National Institute of Technology Rourkela with honors in Computer Science and Engineering. I have been learning about robots that interact with humans and wish to learn more about real-world applications of ML in the healthcare industry. 
 
-- 🔭 I’m currently working on acquiring new skills
-- 🌱 I’m currently learning Web development
-- 🎯 2021 Goals: Contribute more to Open Source projects
-- 👯 I’m looking to collaborate with other developers on various platforms
 - 💬 Ask me about Technology and Astrophysics
-- 📫 How to reach me: business.greddy@gmail.com 
+- 📫 How to reach me: business.greddy@gmail.com
 
 <h2 align='left'>Feel free to connect with me on:  </h2> 
 
