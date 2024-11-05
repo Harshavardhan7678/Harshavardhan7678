@@ -3,7 +3,7 @@
     Harshavardhan Here 
 </h1>
 
-<img align="right" height="300px" alt="GIF" src="https://giphy.com/gifs/animation-cute-smile-3o7TKMt1VVNkHV2PaE" style="padding:5px" />
+<img align="right" height="300px" alt="GIF" src="https://giphy.com/gifs/animation-cute-smile-3o7TKMt1VVNkHV2PaE](https://giphy.com/embed/3o7TKMt1VVNkHV2PaE" style="padding:5px" />
 
 <h2 align="center"> I'm a student and a Zealous Developer! </h2>
 
