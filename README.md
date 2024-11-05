@@ -4,6 +4,9 @@
 </h1>
 
 <h2 align="center"> I'm a student and a Zealous Developer! </h2>
+<div align="center">
+<img src="https : / /visitor-badge. laobi. icu/badge maurodesouza&"
+</div>
 
 <p>
     Currently pursuing a Master's at the University of Washington, majoring in Computer Science and Robotics. I graduated from the National Institute of Technology Rourkela with honors in Computer Science and Engineering. I have been learning about robots that interact with humans and wish to learn more about real-world applications of ML in the healthcare industry.
